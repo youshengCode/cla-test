@@ -1,0 +1,6 @@
+{
+  "contributors": "https://cla-manager.vercel.app/api/contributor?checkContributor=",
+  "message": "{{usersWithoutCLA}} please sign at [CLA Signning Page](https://cla-manager.vercel.app/sign). After signing, comment @cla-bot check.",
+  "label": "cla-signed",
+  "recheckComment": "CLA eligibility checked again."
+}
